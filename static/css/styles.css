@@ -71,7 +71,7 @@ article img {
   transition: 0.25s;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 45em) {
   section {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -92,7 +92,7 @@ article img {
   }
 }
 
-@media (min-width: 60em) {
+@media (min-width: 70em) {
   section {
     grid-template-columns: 1fr 1fr 1fr;
   }
