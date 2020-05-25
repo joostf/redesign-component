@@ -100,10 +100,8 @@ section.compact article img {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  section > header {
-    grid-column: 1 / 3;
-  }
 
+  section > header,
   section a:first-of-type {
     grid-column: 1 / -1;
   }
