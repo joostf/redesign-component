@@ -79,7 +79,7 @@ article img {
 section.compact article {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(12px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
 }
 section.compact article header {
   grid-column: 2 / 3;
@@ -87,7 +87,7 @@ section.compact article header {
   margin-bottom: 0;
 }
 section.compact article header p {
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
 }
 section.compact article img {
   grid-column: 1 / 2;
@@ -119,6 +119,9 @@ section.compact article img {
   }
   section.compact article header {
     margin-bottom: 1rem;
+  }
+  section.compact article header p {
+    margin-top: 1rem;
   }
   section.compact article img {
     width: calc(100% + 2rem);
