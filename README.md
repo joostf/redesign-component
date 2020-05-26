@@ -11,7 +11,7 @@ Analyseer aan de hand van de webstatistieken wat het probleem is en maak een des
 ### 🔎 Analyse 
 Nieuwsitems worden getoond zonder foto's. Andere onderdelen van de pagina worden wel met foto's verrijkt. Het valt op dat er bij een smaller scherm minder nieuwsitems getoond worden. 
 
-### 🎨Ontwerp 
+### 🎨 Ontwerp 
 Mijn plan is om meerdere uitwerkingen van het nieuwscomponent te maken en de verschillende versie te testen. De nieuwsitems wil ik verrijken met foto's en ik wil in elke context dezelfde nieuwsitems tonen.
 
 ### 🔧 Bouwen 
